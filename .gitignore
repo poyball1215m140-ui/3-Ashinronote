@@ -1,0 +1,10 @@
+*.json
+!package.json
+*.xlsx
+*.xls
+*.csv
+*.html
+!index.html
+backups/
+private/
+.env*
